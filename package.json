@@ -1,0 +1,8 @@
+{
+  "name": "larning-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gomesuit/larning-parcel.git",
+  "author": "gomesuit <gomesuit@gmail.com>",
+  "license": "MIT"
+}
