@@ -4,3 +4,7 @@
 parcel index.html
 # http://localhost:1234/
 ```
+
+```
+parcel build index.html
+```
